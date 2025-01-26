@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 import { Listbox, Transition } from '@headlessui/react';
-import { Check, ChevronDown, X, Search } from 'lucide-react';
+import { Check, ChevronDown, X, Search } from '../utils/icons';
 import { PlaceType } from '../types';
 import { getReadableType, getTypeIcon } from '../utils/icons';
 

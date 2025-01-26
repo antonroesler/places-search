@@ -1,5 +1,5 @@
 import { Dialog } from '@headlessui/react';
-import { X } from 'lucide-react';
+import { X } from '../utils/icons';
 import { Place } from '../types';
 import { getReadableType } from '../utils/icons';
 import { useState, useEffect } from 'react';
